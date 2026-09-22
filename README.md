@@ -30,7 +30,8 @@ Z,  X,  C,  V<br><br>
 holding the rotary encoder button also enables the led control layer, for as long as you hold it.<br>
 the binds are <br>
        Hue up,    Sat up,    Val up,    ____(you should be holding this anyways)<br>
-hue down,  sat down,   val down,    toggle underglow.<br><br>
+hue down,  sat down,   val down,    toggle underglow.<br>
+The rotary encoder itself types G on a counter clockwise turn and B on a clockwise turn <br><br>
 <h1>bill of materials</h1>
 1x Seeed Studio Xiao RP2040<br>
 8x Through-hole 1N4148 diodes<br>
