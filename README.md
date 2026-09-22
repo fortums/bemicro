@@ -1,7 +1,9 @@
 <h1>Bemicro</h1>
 A macropad designed for Hackclub's Stardance.<br>
 This is a half macropad half beatmania controller inspired by the <a href="https://github.com/ianklug/bemini">Bemini</a>.<br>
-This was started on the 12th, and is now concluding on the 21st. not too bad for a first hardware project, if i do say so myself.
+This was started on the 12th, and is now concluding on the 21st. not too bad for a first hardware project, if i do say so myself.<br>
+<img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/bc94f93b-829d-4696-a360-a68359bd6576" />
+AI FREE!!
 <br><br>
 <h2>the board itself</h2>
 This was probably the most fun part. <br>
