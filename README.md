@@ -19,7 +19,7 @@ which looks like this in the 3d view<br>
 <img width="992" height="690" alt="image" src="https://github.com/user-attachments/assets/12d83f01-1092-4167-bfd4-4b573068b7ef" />
 <br><br>
 <h2>The case!</h2>
-its really bare bones. The Xiao, leds, keyswitches, and roatary encoder all need to be left (mostly) uncovered, so theres not much to really add a top over, so theres no top. for now.
+its really bare bones. The Xiao, leds, keyswitches, and roatary encoder all need to be left (mostly) uncovered, so theres not much to really add a top over, so theres no top. for now.(if i feel its needed once its built, i will make one.)
 <br><img width="699" height="431" alt="image" src="https://github.com/user-attachments/assets/6a5af3ac-eb84-4774-b105-8754b54bed96" /><br>
 notably, the encoder knob (to mirror a beatmania controller) looks like a tunrtable... kinda. its that odd shape so that it can still be spin-able dj style, but also not cover the whole board.<br>
 <img width="660" height="832" alt="image" src="https://github.com/user-attachments/assets/fdeff31d-d8e7-4466-8aaa-0a5e753a8012" /><br>
