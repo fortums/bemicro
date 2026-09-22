@@ -40,4 +40,5 @@ The rotary encoder itself types G on a counter clockwise turn and B on a clockwi
 1x .91 inch OLED display<br>
 7x MX keycaps (white in this case)<br>
 2x M3x16mm screws<br>
-2x M3x5x4mm heatset inserts.
+2x M3x5x4mm heatset inserts.<br>
+4x SK6812 MINI-E LEDs
